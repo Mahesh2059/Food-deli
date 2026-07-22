@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./component/Home";
 import Footer from "./component/Footer";
 import LoginPopup from "./component/LoginPopup";
-import Cart from "./pages/Cart";
+import Cart from "./pages/cart";
 
 function App() {
   const [showLogin, setShowLogin] = useState(false);
