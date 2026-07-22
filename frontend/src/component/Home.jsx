@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Navbar from "./Navbar";
-import Header from "./Header";
+import Header from "./header";
 import ExploreMenu from "./ExploreMenu";
 import DownloadApp from "./DownloadApp";
 
